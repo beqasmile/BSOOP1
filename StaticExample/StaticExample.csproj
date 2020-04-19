@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Movie.cs" />
+    <Compile Include="MovieActor.cs" />
+    <Compile Include="MovieDirector.cs" />
+    <Compile Include="MovieStreaming.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
